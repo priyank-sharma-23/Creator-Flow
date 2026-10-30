@@ -1,0 +1,13 @@
+# Dependencies and build output
+frontend/node_modules/
+frontend/dist/
+backend/venv/
+**/__pycache__/
+*.py[cod]
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vercel/
+.vscode/
